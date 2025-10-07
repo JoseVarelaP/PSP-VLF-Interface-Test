@@ -4,6 +4,9 @@ This application is an example for how the VLF library can create an UI that is 
 
 Based on the `loginscreen_bin` example from the [psp-vlf library backup](https://github.com/MichelMichels/psp-vlf).
 
+![First screen](doc/pic_0000.png)
+![License screen](doc/pic_0001.png)
+
 ## Building
 
 You'll need [PSPDEV](https://pspdev.github.io/installation.html) installed on your system.
